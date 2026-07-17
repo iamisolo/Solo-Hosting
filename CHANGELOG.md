@@ -6620,6 +6620,7 @@ All notable changes to this project will be documented in this file.
 - *(readme)* Fix PrivateAlps sponsor wording
 - *(readme)* Remove Context.dev sponsor
 - *(readme)* Add Seibert Group sponsor
+- Update changelog
 
 ### ⚡ Performance
 
