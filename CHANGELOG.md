@@ -6621,6 +6621,7 @@ All notable changes to this project will be documented in this file.
 - *(readme)* Remove Context.dev sponsor
 - *(readme)* Add Seibert Group sponsor
 - Update changelog
+- Update changelog
 
 ### ⚡ Performance
 
